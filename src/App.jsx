@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import GenrePills from './components/GenrePills'
 import MovieGrid from './components/MovieGrid'
